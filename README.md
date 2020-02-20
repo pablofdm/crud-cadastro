@@ -8,7 +8,7 @@ Abra http: // localhost:3000 e //localhost:3001/users (servidor JSON) para visua
 
 
 A página será recarregada se você fizer edições.
-Você também verá erros de fiapos no console.
+Você também verá erros de imediato no console.
 
 ### `npm test`
 Inicia o corredor de teste no modo de observação interativo.
