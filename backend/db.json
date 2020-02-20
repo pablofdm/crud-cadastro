@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pablo Fernandes ",
+      "email": "pablofernandes72.pf@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bruna Assis de Paula",
+      "email": "brunaa.odonto@gmail.com"
+    }
+  ]
+}
