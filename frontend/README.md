@@ -3,7 +3,7 @@ Este projeto foi iniciado com o [Create React App](https://github.com/facebook/c
 Scripts disponíveis
 No diretório do projeto, você pode executar:
 
-###npm start
+###`npm start`
 Executa o aplicativo e o servidor backend no modo de desenvolvimento.
 Abra http: // localhost:3000 e //localhost:3001/users (servidor JSON) para visualizá-los no navegador.
 
@@ -38,20 +38,20 @@ Você pode aprender mais na documentação do Create React App .
 
 Para aprender a reagir, consulte a documentação do React .
 
-###Divisão de código
+##Divisão de código
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/code-splitting
 
-###Analisando o tamanho do pacote
+##Analisando o tamanho do pacote
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-###Criando um aplicativo Web progressivo
+##Criando um aplicativo Web progressivo
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-###Configuração avançada
+##Configuração avançada
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-###Desdobramento, desenvolvimento
+##Desdobramento, desenvolvimento
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/deployment
 
-###npm run build falha ao minificar
+##npm run build falha ao minificar
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/trou Troubleshooting#npm - run - build - fails - to - minify
