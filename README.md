@@ -1,7 +1,6 @@
 Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
 
-Scripts disponíveis
-No diretório do projeto, você pode executar:
+Scripts disponíveis no diretório do projeto, é só executar:
 
 ### `npm start`
 Executa o aplicativo e o servidor backend no modo de desenvolvimento.
@@ -54,4 +53,4 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/deployment
 
 ### npm run build falha ao minificar
-Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/troubleshooting#npm - run - build - fails - to - minify
+Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
